@@ -1,1 +1,1 @@
-# p5-ml
+# Simulates a machine learning model
